@@ -1,6 +1,6 @@
 # HALF_ADDER
 
-# AIM
+# AIM:
 
 To simulate and synthesis half adder using vivado.
 # Apparatus Required:
